@@ -82,6 +82,7 @@ brew cask install dash
 brew cask install encryptr
 brew cask install evernote
 brew cask install firefox
+brew cask install flux
 brew cask install iterm2
 brew cask install jumpcut
 brew cask install slack
