@@ -77,16 +77,14 @@ brew tap caskroom/versions
 brew cask install alfred
 brew cask install atom
 brew cask install google-chrome
-brew cask install charles
 brew cask install dash
 brew cask install encryptr
-brew cask install evernote
 brew cask install firefox
 brew cask install flux
 brew cask install iterm2
-brew cask install jumpcut
 brew cask install slack
 brew cask install spectacle
+brew cask install postman
 
 # Remove outdated versions from the cellar.
 brew cleanup
