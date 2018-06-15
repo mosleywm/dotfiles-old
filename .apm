@@ -10,3 +10,4 @@ apm install linter-jshint
 apm install minimap
 apm install minimap-git-diff
 apm install Sublime-Style-Column-Selection
+apm install tabs-to-spaces
